@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Repro";
+  src: url("src/ABCReproMono-BoldMono-Trial.otf");
+}
+html,
+body {
+  font-family: "Repro";
+  height: 100%;
+}
+#app {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+}
